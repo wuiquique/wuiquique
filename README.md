@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
 <h3 align="center">A creative and passionate web Frontend and SwiftUI developer from Guatemala</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wuiquique" alt="wuiquique" /></a> </p>
-
 - 🔭 I’m currently working on **a simple Todo List app for iOS**
 
 - 🌱 I’m currently learning **SwiftUI**
