@@ -40,11 +40,5 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=wuiquique&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=12172567366&unique=1" alt="Music I enjoy"/>
 </div>
